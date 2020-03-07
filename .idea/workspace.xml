@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31c7c30-bf10-4af5-b315-12872287fe44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,9 +49,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="aula-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculadora" />
       <module name="aula-01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +67,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.Calculadora" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583587248692</updated>
       <workItem from="1583592450713" duration="1483000" />
+      <workItem from="1583594089089" duration="6643000" />
     </task>
     <servers />
   </component>
@@ -84,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
